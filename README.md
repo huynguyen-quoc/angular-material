@@ -1,4 +1,4 @@
-# Material Design for AngularJS Apps [![Build Status](https://travis-ci.org/angular/material.svg)](https://travis-ci.org/angular/material)
+# Material Design for AngularJS Apps Custom [![Build Status](https://travis-ci.org/angular/material.svg)](https://travis-ci.org/angular/material)
 
 [Material Design](https://www.google.com/design/spec/material-design/) is a specification for a
 unified system of visual, motion, and interaction design that adapts across different devices. Our
@@ -188,4 +188,3 @@ Once you have all the necessary assets installed, add `ngMaterial` as a dependen
 ```javascript
 angular.module('myApp', ['ngMaterial']);
 ```
-
