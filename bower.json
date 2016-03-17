@@ -16,7 +16,7 @@
   ],
   "homepage": "https://github.com/izbq1102/angular-material",
   "moduleType": [],
-  "private": true,
+  "private": false,
   "ignore": [
     "**/.*",
     "node_modules",
